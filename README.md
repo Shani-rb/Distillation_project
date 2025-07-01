@@ -77,8 +77,8 @@ Temperature / alpha parameters
 
 4. Run all cells to train and evaluate the models.
 ---
-##✍️ Author
-Shani Brok
+✍️ Author
+Shani Bruck
 Bioinformatics BSc Student @ Machon Tal – JCT
 2025 Final Project
 
