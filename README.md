@@ -1,5 +1,3 @@
-# Distillation_project
-This project uses knowledge distillation to train a smaller student model with guidance from a larger teacher model. It combines hard labels, soft logits, and feature alignment losses to improve the student’s accuracy and efficiency for image classification tasks.
 # Knowledge Distillation for Image Classification
 
 This project demonstrates the use of **Knowledge Distillation (KD)** to train a compact and efficient student model using the guidance of a larger, more accurate teacher model.  
@@ -65,3 +63,22 @@ In this project, we go a step further and also include **feature-based distillat
 1. Clone the repository:
    ```bash
    git clone https://github.com/Shani-rb/Distillation_project.git
+2. Open the notebook in Google Colab:
+
+SHANI.ipynb
+
+3. Modify configuration cells to switch between:
+
+Different datasets
+
+Distillation vs. baseline mode
+
+Temperature / alpha parameters
+
+4. Run all cells to train and evaluate the models.
+---
+##✍️ Author
+Shani Brok
+Bioinformatics BSc Student @ Machon Tal – JCT
+2025 Final Project
+
